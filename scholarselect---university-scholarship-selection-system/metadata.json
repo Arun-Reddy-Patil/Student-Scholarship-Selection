@@ -1,0 +1,6 @@
+{
+  "name": "ScholarSelect - University Scholarship Selection System",
+  "description": "An institutional MERN stack platform for university scholarship budget management, Knapsack 0/1 optimization allocation, and student application lifecycle.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
